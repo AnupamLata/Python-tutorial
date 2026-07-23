@@ -82,7 +82,6 @@ Reading from and writing to files.
 ---
 
 ## 🛠 Project Examples Included
-* **Fake News Detection System** [cite: 1]
 * **AI-Driven Microfinance Loan Risk Prediction** [cite: 1]
 * **Ayurvedic Recommendation System** [cite: 1]
 
